@@ -4,6 +4,8 @@
   <a href="https://github.com/lucasmodesto/Cattose/actions/workflows/android-ci.yaml"><img alt="Build Status" src=https://github.com/lucasmodesto/Cattose/actions/workflows/android-ci.yaml/badge.svg></a> <br>
 </p>
 
+
+
 # Cattose
 Cattose is a [Jetpack Compose](https://developer.android.com/develop/ui/compose) sample app. This project serves as a sandbox environment to experiment and explore new features in Android development.
 
